@@ -18,4 +18,14 @@ body,
 .el-submenu .el-menu-item {
   min-width: 199px;
 }
+.el-card {
+  margin-top: 20px;
+}
+.el-card .el-table {
+  margin: 20px 0;
+}
+.el-cascader__dropdown {
+  height: 200px;
+  overflow-y: auto;
+}
 /*# sourceMappingURL=global.css.map */
